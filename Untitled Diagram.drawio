@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T08:32:01.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="22i3kPDX0SZB3Sfvr_n4" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-09T08:32:50.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="J6FEx417LCPL2VHAs6Kq" version="20.4.0" type="github">
   <diagram id="TQi7t6NpXrlLMQliiDbz" name="Business Problem">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -84,6 +84,12 @@
         </mxCell>
         <mxCell id="cnXPWbjHOrQOqPqAnLGX-103" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="cnXPWbjHOrQOqPqAnLGX-98" source="cnXPWbjHOrQOqPqAnLGX-99" target="cnXPWbjHOrQOqPqAnLGX-102">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnXPWbjHOrQOqPqAnLGX-106" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="500" as="sourcePoint" />
+            <mxPoint x="560" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
