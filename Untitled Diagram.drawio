@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T07:59:59.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ElxT4ScPn9VoLSps0Nje" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-09T08:01:49.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1nKK6-oTKXe0jko0sGUA" version="20.4.0" type="github">
   <diagram id="TQi7t6NpXrlLMQliiDbz" name="Business Problem">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="cnXPWbjHOrQOqPqAnLGX-1" value="GO LIVE PROJECT" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;direction=east;" vertex="1" parent="1">
           <mxGeometry x="280" width="280" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="cnXPWbjHOrQOqPqAnLGX-20" value="Project deplay" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" vertex="1" parent="cnXPWbjHOrQOqPqAnLGX-1">
+        <mxCell id="cnXPWbjHOrQOqPqAnLGX-20" value="Project deplay" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;flipV=0;flipH=0;" vertex="1" parent="cnXPWbjHOrQOqPqAnLGX-1">
           <mxGeometry x="80" y="30" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
